@@ -20,7 +20,7 @@ A simple Flappy Bird clone built using HTML, CSS, and JavaScript.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/devSin8/Flappy-bird.git
+   git clone https://github.com/devSin8/Flappybird.git
    ```
 2. Navigate to the project directory:
    ```sh
