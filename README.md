@@ -24,7 +24,7 @@ A simple Flappy Bird clone built using HTML, CSS, and JavaScript.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd flappy-bird-clone
+   cd Flappybird
    ```
 3. Open `index.html` in your browser.
 
